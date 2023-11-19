@@ -1,0 +1,53 @@
+Nama	: SHANDY PRAYUDYA
+Kelas	: IF22A
+NIM	: 22416255201233
+
+UTS Pemrograman Website
+
+1. Apa yang dimaksud dengan framework pada pengembangan aplikasi?
+(jelaskan dengan bahasa yang mudah dimengerti, bukan secara
+harfiah/istilah)
+Jawab: 
+
+Bayangkan jika membuat sebuah rumah dari awal setiap kali ingin memiliki rumah baru. kalian harus membangun fondasi, dinding, atap, dan semua detail lainnya dari nol. Jadi, secara sederhana, sebuah framework adalah kerangka kerja yang sudah jadi untuk membantu pembangunan aplikasi. Ia memberikan aturan dan alat yang sudah ada agar Anda bisa fokus pada pengembangan aplikasi tanpa harus membuat semuanya dari awal.
+
+2. 
+
+a. Sebutkan tema proyek yang sedang digarap
+Jawab: Saya bersama dengan kelompok saya mendapat tema proyek Klinik.
+
+b. Sebutkan anggota dari proyek yang sedang digarap, berikut dengan
+jobdesk dari masing-masing anggota!
+Jawab: 1. Yafie Haris Yunandar (22416255201234),bertugas sebagai ketua pada proyek ini,
+          jobdesk nya adalah untuk mengerjakan laporan dan Analisis Design Berorientasi Objek.  
+       2. Firjatullah Malik Ali Yasin (22416255201253), saya dipercayai untuk mengerjakan bagian sistem website yang tidak 
+          dilihat oleh pengguna atau biasa disebut sebagai Backend.
+       3. Shandy Prayudya (22416255201233), bertugas untuk mengerjakan tampilan-tampilan pada website
+          atau yang biasa disebut sebagai frontend.
+
+c. Jelaskan permasalahan yang didapat setelah hasil wawancara dengan
+client, beserta hipotesa solusi yang kalian usung! (jelaskan dengan
+bahasa yang mudah dimengerti, bukan secara harfiah/istilah)
+Jawab: Menurut keterangan hasil wawancara kami kepada pemilik klinik, Klinik tersebut sudah memiliki sistem yaitu hanya berupa rekam data medis saja.
+       sehingga kami ingin membuat aplikasi klinik yang bertujuan untuk:
+
+      1. Manajemen Pasien:
+         - Registrasi pasien baru dan menyimpan data pasien seperti riwayat medis, informasi kontak, dan catatan perawatan.
+
+      2. Manajemen Dokter dan Karyawan:
+         - Informasi profil dokter dan staf klinik. 
+         - Penugasan tugas atau jadwal untuk karyawan klinik.
+
+      3. Data Rekam Medis:
+         - Pencatatan rekam medis yang rapih sehingga dapat dilihat, dihapus, dan diedit
+
+      4. Manajemen Obat/alat medis:
+         - Pemantauan Stok obat dan alat medis.
+
+3. Terdapat file show.php di root proyek yang menghasilkan tabel data produk,
+Didalam nya terdapat fitur “EDIT” dan “HAPUS”. Buatkan fitur “EDIT” dan
+“HAPUS” dan unggah source code di elearning/BOC!
+
+
+
+
